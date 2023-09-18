@@ -3,7 +3,7 @@
  * print_array - function that prints n elements of an array of integers,
  * followed by a new line.
  * @a: This is the input array
- * @b: This is the length of the array
+ * @n: This is the length of the array
  *
  *
  */
