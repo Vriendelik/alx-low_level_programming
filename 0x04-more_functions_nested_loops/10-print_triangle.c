@@ -4,6 +4,7 @@
  * print_triangle - fucntion that prints a triangle, using the charater #.
  * @size: The size of the triangle.
  */
+
 void print_triangle(int size)
 {
     int hash, index;
